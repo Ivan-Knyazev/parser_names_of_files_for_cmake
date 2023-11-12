@@ -1,0 +1,11 @@
+# ENV files
+.env
+
+# VC Code folder
+.vscode
+
+# Virtual Environment folder
+.venv
+
+# Result folder
+result
